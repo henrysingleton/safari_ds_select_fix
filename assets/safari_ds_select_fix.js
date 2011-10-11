@@ -1,3 +1,5 @@
 jQuery(document).ready(function() {
-	jQuery('#blueprints-datasources select[multiple].filtered').removeAttr('size');
+	if (jQuery.browser.safari) {
+		jQuery('#blueprints-datasources select[multiple].filtered').removeAttr('size');
+	}
 });
