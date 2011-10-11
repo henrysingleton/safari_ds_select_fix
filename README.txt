@@ -11,7 +11,7 @@ select box disappear if they are filtered via JavaScript. It does this by
 triggering Safari to repaint the select box by modifying the 'size'
 attribute.
 
-Extension home: http://symphony-cms.com/download/extensions/view/XXX/
+Extension home: http://symphony-cms.com/download/extensions/view/73695/
 
 [INSTALLATION]
 
